@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "Cyber Quantum",
+    "base_url": "",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "115",
+    "logo_height": "115",
+    "logo_text": "Cyber Quantum"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 100,
+    "blog_folder": "blog"
+  },
+
+  "call_to_action": {
+    "title": "Empowering Businesses with Cutting-Edge Cybersecurity and Quantum Solutions",
+    "description": "Stay ahead in the rapidly evolving digital landscape. Partner with Cyber Quantum for innovative cybersecurity, AI, and cloud solutions that secure and optimize your business operations.",
+    "button": {
+      "label": "Learn More",
+      "link": "/contact"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "cyber-quantum-tech",
+    "settings": {}
+  },
+
+  "params": {
+    "footer_description": "Leading the charge in cybersecurity and quantum technology, we help businesses stay secure, efficient, and ready for the future.",
+    "email": "contact@cyberquantum.com",
+    "location": "G309, Al Nashash Street,Al Nahyan Abu Dhabi, United Arab Emirates & 4th Floor, Greens, Sagar Hills, ICAR Road Rajendranagar, Hyderabad, India 500030",
+    "phone": "+97-152-800-8125, +91 987-185-8624",
+    "contact_form_action": "/contact",
+    "copyright": "Copyright © 2024 Cyber Quantum Technology"
+  },
+
+  "metadata": {
+    "meta_author": "Cyber Quantum Technology",
+    "meta_image": "/images/meta-image.png",
+    "meta_description": "Cyber Quantum Technology Consulting is a leader in cybersecurity, AI, and quantum solutions, dedicated to empowering businesses through innovation."
+  }
+}
